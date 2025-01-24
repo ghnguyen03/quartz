@@ -1,5 +1,5 @@
 ---
-title: the enneagram index
+title: enneagram index
 draft: false
 tags:
 ---
@@ -7,4 +7,6 @@ Information about the Enneagram is scattered throughout a variety of sources, ra
 
 Because there are so many sources of information, the best way to learn about the Enneagram is to consume from a variety of them and draw your own conclusions. The Enneagram is a theory that is forever developing as the people in the community bring their heads together.
 
-[[the enneagram|What is the enneagram?]]
+[[the enneagram|What is the Enneagram?]]
+[[triads|What are the triads?]]
+[[enneagram types|What are the nine types?]]
