@@ -1,5 +1,5 @@
 ---
-title: centers of intelligence
+title: Centers of Intelligence
 draft: false
 tags:
 ---

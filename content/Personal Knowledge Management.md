@@ -1,5 +1,5 @@
 ---
-title: What is PKM?
+title: Personal Knowledge Management (PKM)
 draft: false
 tags:
 ---

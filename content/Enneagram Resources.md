@@ -20,6 +20,7 @@ If you're just starting out on your journey to exploring the Enneagram and all o
 [Enneagram User Guide](https://enneagramuserguide.com/)
 
 [fitzel.ca](http://www.fitzel.ca/enneagram/index.html)
+- [Enneagram Patterns](http://www.fitzel.ca/enneagram/patterns.html)
 
 [oceanmoonshine9](https://oceanmoonshine9.wordpress.com/)
 
@@ -31,6 +32,11 @@ If you're just starting out on your journey to exploring the Enneagram and all o
 [The Narrative Enneagram](https://www.narrativeenneagram.org/tour-the-nine-types/)
 - [Type Comparisons](https://www.narrativeenneagram.org/type-comparisons/)
 
-# Articles and Pages
+# Topics
+## General
 
 [A Comprehensive Guide to All Things Enneagram](https://www.reddit.com/r/Enneagram/comments/dc4g4i/a_comprehensive_guide_to_all_things_enneagram/)
+
+## [[triads|Triads]]
+
+[Enneagram Triads](https://www.personalitycafe.com/threads/enneagram-triads.5824/)
