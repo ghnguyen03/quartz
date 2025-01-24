@@ -3,10 +3,10 @@ title: What are the triads?
 draft: false
 tags:
 ---
-[[Centers of Intelligence]]
+[[centers of intelligence|Centers of Intelligence]]
 
-[[Object Relations]]
+[[object relations|Object Relations]]
 
-[[Hornevian Groups]]
+[[hornevian groups|Hornevian Groups]]
 
-[[Harmonic Groups]]
+[[harmonic groups|Harmonic Groups]]

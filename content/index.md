@@ -3,4 +3,4 @@ title: Homepage
 ---
 Welcome to The Databank! 
 
-The pages on this site were created using [[Obsidian]].
+The pages on this site were created using [[obsidian|Obsidian]].
