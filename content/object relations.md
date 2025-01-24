@@ -1,5 +1,5 @@
 ---
-title: object relations
+title: Object Relations
 draft: false
 tags:
 ---

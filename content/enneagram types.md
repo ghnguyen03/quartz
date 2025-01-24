@@ -1,5 +1,5 @@
 ---
-title: What are the Nine Types?
+title: The Nine Types
 draft: false
 tags:
 ---

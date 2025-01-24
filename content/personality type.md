@@ -1,5 +1,5 @@
 ---
-title: Harmonic Groups
+title: "personality type"
 draft: false
 tags:
 ---

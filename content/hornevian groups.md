@@ -1,5 +1,5 @@
 ---
-title: hornevian groups
+title: Hornevian Groups
 draft: false
 tags:
 ---
