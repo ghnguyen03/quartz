@@ -7,6 +7,7 @@ Information about the Enneagram is scattered across a variety of sources, rangin
 
 Because there are so many sources of information, the best way to learn about the Enneagram is to consume from a variety of them and draw your own conclusions. The Enneagram is a theory that is forever developing as the people in the community bring their heads together.
 
-[[the enneagram|What is the Enneagram?]]
-[[triads|What are the triads?]]
-[[enneagram types|What are the nine types?]]
+[[Enneagram|What is the Enneagram?]]
+[[Triads|What are the triads?]]
+[[Enneagram Types|What are the nine types?]]
+[[Enneagram Resources|Where can I learn more about the Enneagram?]]
