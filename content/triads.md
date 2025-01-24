@@ -3,7 +3,7 @@ title: What are the triads?
 draft: false
 tags:
 ---
-[[centers of intelligence|Centers of Intelligence]]
+[[centers of intelligence|centers of intelligence]]
 
 [[object relations|Object Relations]]
 
