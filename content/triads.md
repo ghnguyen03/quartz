@@ -1,5 +1,5 @@
 ---
-title: "triads"
+title: What are the triads?
 draft: false
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: what is the enneagram?
+title: What is the Enneagram?
 draft: false
 tags:
 ---
