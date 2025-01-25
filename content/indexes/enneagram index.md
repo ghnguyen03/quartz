@@ -9,7 +9,7 @@ Because there are so many sources of information, the best way to learn about th
 
 [[enneagram|What is the Enneagram?]]
 
-[[triads|What are the triads?]]
+[[triads|What are triads?]]
 
 [[enneagram types|What are the nine types?]]
 
