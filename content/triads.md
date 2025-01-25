@@ -1,9 +1,9 @@
 ---
-title: What are the triads?
+title: Triads
 draft: false
 tags:
 ---
-[[centers of intelligence|centers of intelligence]]
+[[centers of intelligence|Centers of Intelligence]]
 
 [[object relations|Object Relations]]
 

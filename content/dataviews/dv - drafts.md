@@ -4,6 +4,8 @@ draft: true
 
 ```dataview
 TABLE
-FROM "" AND -"dataviews" AND -"templates"
+FROM "content" 
+	AND -"content/dataviews" 
+	AND -"content/templates"
 WHERE draft = true
 ```

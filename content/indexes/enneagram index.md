@@ -14,3 +14,5 @@ Because there are so many sources of information, the best way to learn about th
 [[enneagram types|What are the nine types?]]
 
 [[enneagram resources|Where can I learn more about the Enneagram?]]
+
+[[self-typing|How do I find out my own type?]]
