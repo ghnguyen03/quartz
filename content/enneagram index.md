@@ -7,12 +7,12 @@ Information about the Enneagram is scattered across a variety of sources, rangin
 
 Because there are so many sources of information, the best way to learn about the Enneagram is to consume from a variety of them and draw your own conclusions. It's is a theory that is forever developing as the people in the community bring their heads together.
 
-[[enneagram|What is the Enneagram?]]
+[[enneagram-|What is the Enneagram?]]
 
 [[triads|What are triads?]]
 
 [[enneagram types|What are the nine types?]]
 
-[[enneagram resources|Where can I learn more about the Enneagram?]]
+[[enneagram-resources|Where can I learn more about the Enneagram?]]
 
 [[self-typing|How do I find out my own type?]]
