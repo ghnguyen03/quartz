@@ -3,7 +3,7 @@ title: The Nine Types
 draft: false
 tags:
 ---
-The [[enneagram-|Enneagram]] is comprised of nine types:
+The [[enneagram|Enneagram]] is comprised of nine types:
 
 [[type 1|Type 1]]
 

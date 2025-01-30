@@ -7,7 +7,7 @@ Obsidian is a lightweight [[markdown|Markdown]] editor—a program used to edit 
 
 Files are stored locally—on whichever machine you install the program on—so that all of your files belong to *you.* 
 
-It has great potential for customization using plugins and themes, and it being so simple out of the box makes it very flexible. Some use Obsidian for writing. Some use it for daily journaling. Some people use Obsidian to create [[personal-knowledge management|Personal Knowledge Management (PKM)]] systems. 
+It has great potential for customization using plugins and themes, and it being so simple out of the box makes it very flexible. Some use Obsidian for writing. Some use it for daily journaling. Some people use Obsidian to create [[personal knowledge management|Personal Knowledge Management (PKM)]] systems. 
 
 Syncing notes across devices can be done for free using services such as iCloud, Google Drive, or SyncThing. You can also use [Obsidian Sync](https://obsidian.md/sync) as a paid option. 
 

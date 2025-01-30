@@ -9,7 +9,7 @@ This is **not** an exhaustive list of all resources that are out there—'ll add
 
 # Books
 
-If you're just starting out on your journey to exploring the [[enneagram-|Enneagram]] and all of the information it has to offer, **I highly recommend starting with a book.** *The Wisdom of the Enneagram* in particular is one of the resources I started with, and I still return to it for reference from time to time.
+If you're just starting out on your journey to exploring the [[enneagram|Enneagram]] and all of the information it has to offer, **I highly recommend starting with a book.** *The Wisdom of the Enneagram* in particular is one of the resources I started with, and I still return to it for reference from time to time.
 
 - *The Complete Enneagram* by Beatrice Chestnut
 - *The Enneagram* by Helen Palmer
